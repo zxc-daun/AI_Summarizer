@@ -1,4 +1,4 @@
-# AI_Summarizer
+# AI_Summarizer for mean project)
 
 Make sure that you create your own  " .env "  file inside project and copied following:
 
